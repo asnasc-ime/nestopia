@@ -1,3 +1,6 @@
+***DISCLAIMER:*** This fork is intended for ***EDUCATIONAL PURPOSES ONLY*** and is not supported for anything else.
+If you want Mesen for gaming, use the official, supported, version, linked below!
+
 ## About
 This project is a fork of the original Nestopia source code, plus the 
 Linux port. The purpose of the project is to make sure people who want
