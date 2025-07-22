@@ -1,5 +1,6 @@
 ***DISCLAIMER:*** This fork is intended for ***EDUCATIONAL PURPOSES ONLY*** and is not supported for anything else.
-If you want Mesen for gaming, use the official, supported, version, linked below!
+
+If you want Nestopia for gaming, use the official, supported, version!
 
 ## About
 This project is a fork of the original Nestopia source code, plus the 
