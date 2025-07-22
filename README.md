@@ -1,5 +1,4 @@
 ***DISCLAIMER:*** This fork is intended for ***EDUCATIONAL PURPOSES ONLY*** and is not supported for anything else.
-
 If you want Nestopia for gaming, use the official, supported, version!
 
 ## About
